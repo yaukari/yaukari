@@ -1,10 +1,10 @@
 ### If you're looking for the dank memer bot, here it is.                  https://github.com/yaukari/Dank-Destroyer
 
 # My current projects:
-Things coming soon:                  
-A disboard auto-bumper
-A regular discord bot (no source code)
-A portfolio website (maybe)
+Things coming soon:                                    
+A disboard auto-bumper                  
+A regular discord bot (no source code)                  
+A portfolio website (maybe)                  
 
 I might fix up some different selfbots like Dank Destroyer,                  
 DM me ideas on discord pls
