@@ -1,6 +1,6 @@
 ## If you're looking for the dank memer bot, here it is.                  https://github.com/yaukari/Dank-Destroyer
 
-Yo where tf my programming socks????
+Yo where tf my programming socks????                     
 a femboy knows python?? insane.
 
 If you wanna see any website project im working:
