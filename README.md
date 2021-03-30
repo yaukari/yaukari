@@ -1,4 +1,9 @@
-## If you're looking for the dank memer bot, here it is.                  https://github.com/yaukari/Dank-Destroyer
+### If you're looking for the dank memer bot, here it is.                  https://github.com/yaukari/Dank-Destroyer
+
+# My current projects:
+Nothing really, just optimizing dank destroyer n' making it my own
+
+## Stupid
 
 Yo where tf my programming socks????                     
 A femboy knows python?? insane.
