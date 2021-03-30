@@ -7,7 +7,7 @@ A regular discord bot (no source code)
 A portfolio website (maybe)
 
 I might fix up some different selfbots like Dank Destroyer,                  
-DM me idead on discord pls
+DM me ideas on discord pls
 
 ## Stupid
 
