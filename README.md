@@ -5,3 +5,6 @@ A femboy knows python?? insane.
 
 If you wanna see any website project im working:
 https://yaukari.github.io
+
+Twitter: https://twitter.com/yaukari4
+Discord: yaukari#2490
