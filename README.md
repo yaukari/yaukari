@@ -18,5 +18,5 @@ If you wanna see any website project im working:
 https://yaukari.github.io
 
 Twitter: https://twitter.com/yaukari4                     
-Discord: yaukari#2490
+Discord: yaukari#2490                     
 Telegram: https://t.me/yaukari
